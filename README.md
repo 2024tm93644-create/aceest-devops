@@ -1,4 +1,4 @@
-# ACEest Fitness & Gym – DevOps CI/CD Pipeline
+# Implementing Automated CI/CD Pipelines for ACEest Fitness & Gym
 
 ## Project Overview
 
