@@ -1,5 +1,12 @@
 # Implementing Automated CI/CD Pipelines for ACEest Fitness & Gym
 
+![CI Pipeline](https://github.com/2024tm93644-create/aceest-devops/actions/workflows/main.yml/badge.svg)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-WebApp-green)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI-blue)
 ## Project Overview
 
 This project demonstrates the implementation of a **modern DevOps workflow** for the ACEest Fitness & Gym web application. The objective is to automate the software lifecycle from development to build validation using industry-standard tools including **Git, Docker, Jenkins, Pytest, and GitHub Actions**.
