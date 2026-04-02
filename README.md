@@ -79,7 +79,7 @@ Welcome to ACEest Fitness & Gym
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/<your-username>/aceest-devops.git
+git clone https://github.com/2024tm93644-create/aceest-devops.git
 cd aceest-devops
 ```
 
